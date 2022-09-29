@@ -1,0 +1,25 @@
+To convert from user to root we have the command 
+--> sudo su -
+
+To update the server 
+--> yum update
+
+To install a sample page 
+--> yum install httpd
+
+To start the httpd (any other service)
+--> systemctl start httpd
+
+To check the status of the srvice
+--> systemctl status httpd
+
+
+
+
+
+
+
+
+
+
+http://ec2-13-233-233-232.ap-south-1.compute.amazonaws.com/
