@@ -1,0 +1,24 @@
+How to create the volume 
+---------------------
+Step1:
+We have to create one instance 
+
+Step2:
+We have to check the AZ's of instance 
+
+Step3:
+Go to the volumes and create the volumes with thye same AZ's where your instance is running 
+
+Step4:
+Now attch the volumes to the intance by clicking on attach volumes in actions 
+
+
+
+How to share the volumes from one region to other(How to create the snapshot from the volumes) 
+----------------------------------------------------------------------------------
+Step1:
+We need to create thye snapshots of thge volume which we need to share 
+
+Step2;
+Select the volume click on actions under that you have copy snapshots click on that and choose the destination region where you need
+to copy the snapshot and click on copy

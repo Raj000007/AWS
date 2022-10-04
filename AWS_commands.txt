@@ -1,3 +1,4 @@
+
 To convert from user to root we have the command 
 --> sudo su -
 
@@ -12,6 +13,14 @@ To start the httpd (any other service)
 
 To check the status of the srvice
 --> systemctl status httpd
+
+
+user_data script 
+#!/bin/bash
+yum update -y
+yum install -y httpd
+systemctl start httpd
+systemctl enable httpd
 
 
 
