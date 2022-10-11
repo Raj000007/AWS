@@ -1,0 +1,32 @@
+Assignment 1   
+1. What is server? 
+           Device which provide service to other device or computer
+           
+2. What is cloud computing? 
+           Virtual collections of data center
+           
+3. What are the disadvantages before cloud? 
+        speed , accuracy , maintanance , monitering , high cost. 
+        
+4. What are the advantages of cloud?
+        monitering and maintanance is easy , to aviod packate loss .
+        
+5. Explain different service models of the cloud? 
+                Infrastucture as a Service (IaaS)
+                Platform as a Service (PaaS)
+                Software as a Service(Saas)
+                
+6. Explain Different types of cloud ? 
+      Private , Public, hybrid.
+      
+7. What is ?(Types of virtualization)---->Task 
+          Dividing single H/w into multiple resouce call virtulization .
+          Types:Hosted hypervisor 
+                Bare Metal
+8. Why cloud computing? 
+      to maintain and moniter service easily , to save cost, to maintain traffic , save loss , no connectivity issue .
+      
+9. Which are the different types of cloud providers? 
+    AWS, Azure IBM .
+10. What are the difference between cloud computing and On premises?
+    
